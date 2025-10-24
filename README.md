@@ -6,4 +6,4 @@ I love understanding how things work from the ground up.
 
 ### Connect with me
 
-[LinkedIn](https://linkedin.com/in/albert-roca-llev) | [CV](https://drive.google.com/file/d/11-ou1Uz0GgWI3hCbSRDWq_rX0VrIyrq7/view) | [Email](mailto:albertrocallevadot@gmail.com)
+[LinkedIn](https://linkedin.com/in/albert-roca-llev)  ·  [CV](https://drive.google.com/file/d/11-ou1Uz0GgWI3hCbSRDWq_rX0VrIyrq7/view)  ·  [Email](mailto:albertrocallevadot@gmail.com)
