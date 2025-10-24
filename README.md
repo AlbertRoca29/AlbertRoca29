@@ -2,7 +2,7 @@
 ### Welcome to my workspace and playground for experiments  
 
 I'm a 22-year-old **Computer Vision Engineer** at [Ctrl4Enviro](https://www.ctrl4enviro.com/).  
-I love understanding how things work from the ground up.  
+I love understanding how things work from scratch.
 
 ### Connect with me
 
