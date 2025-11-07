@@ -1,8 +1,8 @@
 # Hello, I'm Albert  
 ### Welcome to my workspace and playground for experiments  
 
-I'm a 22-year-old **Computer Vision Engineer** at [Ctrl4Enviro](https://www.ctrl4enviro.com/).  
-I love understanding how things work from scratch.
+I'm a **Computer Vision Engineer** at [Ctrl4Enviro](https://www.ctrl4enviro.com/).  
+I want to understand how things work from scratch.
 
 ### Connect with me
 
