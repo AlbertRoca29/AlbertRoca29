@@ -1,8 +1,9 @@
-# Hello, I'm Albert  
-### Welcome to my workspace and playground for experiments  
+# Hello, Albert here !  
+### Welcome to my Workspace and playground for experiments  
 
-I'm a **Computer Vision Engineer** at [Ctrl4Enviro](https://www.ctrl4enviro.com/).  
-I code to understand how things work from scratch.
+I'm currently a **Computer Vision Engineer** at [Ctrl4Enviro](https://www.ctrl4enviro.com/).  
+
+I use this space to explore concepts and build cool stuff from time to time ^^
 
 ### Connect with me
 
